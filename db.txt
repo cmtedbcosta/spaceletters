@@ -1,0 +1,24 @@
+banaan,Dit is een gele vrucht
+appel,Dit is een rode vrucht
+framboos,Dit is een rode vrucht
+kokosnoot,Dit is een bruin vrucht
+perzik,Dit is een gele vrucht
+citroen,Dit is een gele vrucht
+meloen,Dit is een gele vrucht
+aardbei,Dit is een rode vrucht
+tomaat,Dit is een rode groente
+wortel,Dit is een oranje groente
+komkommer,Dit is een groen groente
+ui,Dit is een wit groente
+rotterdam,Dit is een stad
+amsterdam,Dit is een stad
+utrecht,Dit is een stad
+gele,Dit is een kleur
+rood,Dit is een kleur
+groen,Dit is een kleur
+wit,Dit is een kleur
+zwart,Dit is een kleur
+grijs,Dit is een kleur
+blauw,Dit is een kleur
+oranje,Dit is een kleur
+roze,Dit is een kleur
